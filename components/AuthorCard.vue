@@ -32,7 +32,7 @@
       </div>
       <div class="my-2 text-gray-600 flex dark:text-blue-100">
         <Glob />
-        <p>{{ siteMetadata.location }}</p>
+        <p> {{ siteMetadata.location }}</p>
       </div>
       <div class="my-2 text-gray-600 flex dark:text-blue-200">
         <Github />

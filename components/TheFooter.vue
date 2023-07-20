@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <div class="flex flex-col items-center mt-5">
+    <div class="flex flex-col items-center">
       <div class="flex mb-3 space-x-4">
         <a
           class="text-sm text-gray-500 transition hover:text-gray-600"
