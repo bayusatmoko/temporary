@@ -85,4 +85,5 @@ export default {
 .nuxt-content p {
   margin-bottom: 20px;
 }
+
 </style>
