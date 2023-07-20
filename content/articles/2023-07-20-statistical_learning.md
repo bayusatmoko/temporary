@@ -3,11 +3,19 @@ title: Intro to Statistical Learning
 tags: Machine Learning, Statistical learning
 date: 2023-07-20
 description: Cupcake ipsum dolor. Sit amet pastry cake toffee carrot cake. Cheesecake candy I love dragée cake jelly-o pie. Cheesecake sesame snaps danish lemon drops sesame snaps sugar plum cupcake powder. Cookie sweet wafer. Jelly chocolate cake dragée candy canes halvah.
-image: https://images.unsplash.com/photo-1648737966614-55e58b5e3caf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80
+image: /images/slearning.png
 draft: true
 ---
 
-# Cupcake ipsum dolor.
+## Tentang statistical learning.
+
+Machine learning memiliki cakupan yang sagat luas. Banyak metode, pendekatan, dan konsep mengenai machine learning yang beririsan dengan statistic. Statistical learning sangat terkait dengan dasar-dasar statistic as a "white-box" method dalam menyelesaikan masalah-masalah machine learning. Pada dasarnya tidak ada satu metode machine learning bisa kita gunakan untuk menyelesaikan semua masalah yang ada dengan baik. Jadi perlunya medeskripsikan model, memiliki intuisi, asumsi, dan trade-off dari metode yang kita gunakan menjadi sangat penting.
+
+Melalui pendekatan statistical learning, kita akan belajar bagaimana metode yang akan kita gunakan bekerja, the mathematics behind. Jadi kita tidak hanya bisa mengaplikasikan metode yang kita tahu tanpa tahu apa yang sebenarnya terjadi. Bukan karena metode yang kita gunakan bisa bekerja, tetapi karena berdasarkan pendekatan konseptual kenapa metode kita bisa bekerja.
+
+
+
+
 
 Lift($L$) can be determined by Lift Coefficient ($C_L$) like the following equation.
 
