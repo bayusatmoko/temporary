@@ -7,7 +7,7 @@
         Blog
       </h1>
       <p class="text-lg text-slate-700 dark:text-slate-400">
-        All the latest Tailwind CSS news, straight from the&nbsp;team.
+        Notes and Coffe.
       </p>
     </header>
     <div class="space-y-16 mx-auto max-w-7xl">
@@ -52,7 +52,7 @@ export default {
       {
         hid: "description",
         name: "description",
-        content: "My Lecture Notes",
+        content: "Notes and COffe",
       },
     ],
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
