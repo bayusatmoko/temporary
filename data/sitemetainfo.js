@@ -19,7 +19,7 @@ const siteMetaInfo = {
   github: "https://github.com/irfanmasoudi",
   githubUser: "irfanmasoudi",
   twitter: "https://twitter.com/irfanmasoudi",
-  twitter_user: "#",
+  twitter_user: "irfanmasoudi",
   stackoverflow: "#",
   youtube: "#",
   linkedin: "#",

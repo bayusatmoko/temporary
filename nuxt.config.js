@@ -14,7 +14,10 @@ export default {
       { hid: "description", name: "description", content: "" },
       { name: "format-detection", content: "telephone=no" },
     ],
-    link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
+    link: [
+      { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
+      { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/katex@0.11.0/dist/katex.min.css' }
+    ],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
@@ -57,6 +60,12 @@ export default {
       prism: {
         theme: "prism-themes/themes/prism-dracula.css",
       },
+      remarkPlugins: [
+        'remark-math'
+      ],
+      rehypePlugins: [
+        'rehype-katex'
+      ]
     },
   },
   // Build Configuration: https://go.nuxtjs.dev/config-build
