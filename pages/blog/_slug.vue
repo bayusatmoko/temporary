@@ -26,11 +26,11 @@
       </div>
     </div>
     <img
-      class="mx-auto w-4/5 max-w-xs my-10 rounded-md drop-shadow-sm"
+      class="mx-auto w-4/5 max-w-xs my-5 rounded-md drop-shadow-sm"
       :src="article.image"
     />
 
-    <nuxt-content class="prose min-w-full p-10 mx-auto" :document="article" />
+    <nuxt-content class="prose min-w-full p-5 mx-auto" :document="article" />
   </div>
 </template>
 <script>
